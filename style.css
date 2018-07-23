@@ -1,0 +1,110 @@
+body {
+    font-family: Arial;
+    width: 100%;
+    overflow: hidden;
+}
+
+tr {
+    font-size: 13px;
+}
+
+li {
+    display: block;
+    color: #666;
+    font-size: 13.4px;
+    text-align: center;
+    padding: 0px 13px;
+}
+
+#logo {
+    margin: auto;
+    width: 292px;
+}
+
+#header {
+    margin-top: 15px;
+    margin-bottom: 150px;
+    margin-left: auto;
+    margin-right: 25px;
+    height: 30px;
+}
+
+#header-table {
+    border-spacing: 15px 0px;
+    margin-left: auto;
+    line-height: 0px;
+}
+
+#sign-in {
+    padding: 0px 13px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(66, 133, 244);
+    background-clip: padding-box;
+    border-radius: 2px;
+}
+
+#search-box {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#search-box-input {
+    width: 550px;
+    height: 36px;
+    box-shadow: 3px 3px 15px 2px lightgrey;
+}
+
+#buttons {
+    margin-top: 20px;
+}
+
+#buttons-table {
+    border-spacing: 10px 5px;
+    margin: 0px auto;
+}
+
+#buttons-cell {
+    padding: 10px 15px;
+    font-size: 14px;
+    text-align: center;
+    color: gray;
+    font-weight: bold;
+    background-color: #f3f3f2;
+    background-clip: padding-box;
+}
+
+#footer-div {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    height: 43px;
+    background-color: #f3f3f2;
+    width: 100%;
+}
+
+#footer-table {
+    border-spacing: 0px 0px;
+    margin-left: 18px;
+}
+
+#footer-cell {
+    color: grey;
+    padding: 25px 13px;
+}
+
+#footer-list {
+    list-style-type: none;
+    padding-left: 17px;
+    padding-right: 17px;
+    height: 0px;
+}
+
+.footer-left {
+    float: left;
+}
+
+.footer-right {
+    float: right;
+}
